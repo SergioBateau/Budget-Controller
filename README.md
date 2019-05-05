@@ -1,4 +1,4 @@
 ## Приложение калькулятор бюджета ##
-ссылка на GitHubPages: 
+ссылка на GitHubPages: https://sergiobateau.github.io/Budget-Controller/
 ***
 ### Автор: Кораблев Сергей ###
